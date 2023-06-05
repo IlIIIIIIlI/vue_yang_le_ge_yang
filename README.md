@@ -1,8 +1,6 @@
 # vue_yang_legeyang 羊了个羊
 a very famous card game in china, achieved in vuejs
 
-# vue-01
-
 ## Project setup
 
 ```
